@@ -2,7 +2,7 @@
 - 👀 I’m interested in DSA
 - 🌱 I’m currently learning GIT
 - 📫 How to reach me jashdpatel2511@gmail.com
-- 😄 Pronouns: hi/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i am very funny , hehehe!
 
 <!---
