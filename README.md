@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jash2511
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning GIT
+- 🌱 I’m currently learning REACT
 - 📫 How to reach me jashdpatel2511@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am very funny , hehehe!
